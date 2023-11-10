@@ -1,19 +1,26 @@
 # Hello World, I'm Layra!
 
-:computer:Front-End Developer
+:computer:Front-End Developer | :house_with_garden:Brazil - SP. | :woman: 22 yrs old
 
-:house_with_garden:Brazil - SP.
+:mag:Looking for a job
 
 ## About me
+<p>
+  <em>
+    <p>Now dedicating myself to grow as a <b>Front-end Developer!</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px"></p> I just graduated in <b>Automation Engineering</b> from <a href="https://www.usjt.br/graduacao/engenharia-de-controle-e-automacao/"> <b>USJT "Universidade São Judas Tadeu"</b>, Brazil</a>.  Soon to be starting my specialization in <b>Software Engineering</b>. 
+  </em>  
+</p>
 <div> 
   <a href="https://github.com/LayraGB" target="_blank"><img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white"target="_blank"></a>
   <a href="https://rooms.xyz/layrabeluco/homeoffice" target="_blank"><img src="https://img.shields.io/badge/-room.xyz-000?style=for-the-badge&logo=&logoColor=white" target="_blank"></a>
-</div>
+</div> 
+
+##
 
 <table>
   <a href="https://github.com/layraGB">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=layragb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layragb&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layragb&layout=compact&langs_count=6&theme=tokyonight"/>
 </table>
 
 <div style="display: inline_block"><br>
