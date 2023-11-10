@@ -17,12 +17,9 @@
 
 ##
 
-<a href="https://github.com/layraGB/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=layragb&theme=tokyonight" />
-</a>
-<a href="https://github.com/layraGB/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=6&card_width=320&theme=tokyonight" />
-</a>
+| <a href="https://github.com/layraGB/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=layragb&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Layra's github stats" /></a> | <a href="https://github.com/layraGB/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="html-5" width="60" src="https://img.icons8.com/nolan/96/html-5.png">
