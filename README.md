@@ -2,8 +2,6 @@
 
 :computer:Front-End Developer | :house_with_garden:Brazil - SP. | :woman: 22 yrs old
 
-:mag:Looking for a job
-
 ## About me
 <p>
   <em>
